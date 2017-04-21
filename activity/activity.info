@@ -1,0 +1,9 @@
+[Activity]
+name = Yum Downloader
+bundle_id = org.laptop.YumDownloader
+exec = sugar-activity activity.VteActivity -s
+icon = YumDownloader
+activity_version = 4
+mime_types = 
+show_launcher = yes
+license = GPLv3+

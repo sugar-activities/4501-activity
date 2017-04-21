@@ -1,0 +1,13 @@
+
+2
+
+* Adding bundle_id (service_name deprecated)
+
+3
+
+* Console UI
+* Disable not-working repos for .UY
+
+4
+
+* Fix activity.info for be valid on Sugar 0.96
